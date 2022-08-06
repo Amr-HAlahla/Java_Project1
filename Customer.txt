@@ -1,0 +1,1 @@
+Customer{id='120', name='amr', address='dfa', plan='UNLIMITED', mobile='m', requests=[1], rented=[]}
